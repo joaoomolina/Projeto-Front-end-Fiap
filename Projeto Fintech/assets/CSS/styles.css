@@ -1,0 +1,7 @@
+    .sobre {
+        min-height: 60vh;
+    }
+
+    .my-title {
+        color: var(bg)
+    }
